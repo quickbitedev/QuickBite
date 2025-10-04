@@ -166,3 +166,7 @@ Splash screen animada com o logo do QuickBite 🍔.
 
 Esse projeto nos ensinou muito sobre trabalho em equipe, lógica de programação e design de interfaces.
 Construímos o QuickBite do zero, testamos funções novas, erramos bastante 😅 e aprendemos o suficiente pra entender como um app real de delivery funciona por dentro.
+
+
+Participantes: 
+Alline Carvalho Silva, Ana Francisca Lima da Silveira, Ana Vitória dos Santos Ruiz, Júlia Oliveira Chaves, Leonardo Ferreira Leite de Souza Cruz e Raissa Alves Costa.
