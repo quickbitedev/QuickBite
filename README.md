@@ -1,4 +1,5 @@
 #🍔 QuickBite – Aplicativo de Lanchonete em Flutter
+
 🧩 Visão Geral
 
 O QuickBite é um aplicativo mobile desenvolvido em Flutter, criado como projeto escolar por nosso grupo para simular o funcionamento de uma lanchonete digital.
